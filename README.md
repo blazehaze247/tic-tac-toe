@@ -7,13 +7,13 @@ The tic-tac-toe game done with [p5.js](https://p5js.org/), a powerful library to
 Demo
 ----
 
-<img src="http://g.recordit.co/qbCnSVTXBS.gif" width="396">
+<img src="https://raw.githubusercontent.com/juancaacuna/tic-tac-toe/master/example.gif" width="396">
 
 
 Usage
 -----
 
-You can play [here](https://undefined/).
+You can play [here](http://htmlpreview.github.io/?https://github.com/juancaacuna/tic-tac-toe/blob/master/index.html).
 
 Or you can download the project and open `index.html` in a browser.
 
